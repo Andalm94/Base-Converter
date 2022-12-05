@@ -1,5 +1,7 @@
 # Base-Converter
 ![](https://github.com/Andalm94/Base-Converter/blob/main/Resources/img1.jpg)
+![](https://github.com/Andalm94/Base-Converter/blob/main/Resources/img2.jpg)
+
 A simple base converter developed with C# in Xamarin Forms
 
 ## conversion rates
