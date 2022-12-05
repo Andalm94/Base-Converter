@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "StTaxVrUT+ufNJPz+zkmp15/UxtZ2PJYDxNxfDxPOncNQBDUrlLWIxyZMCUEXL52FQR4e5T9JJHvtWzgEU7sjg==",
+  "success": true,
+  "projectFilePath": "D:\\Andres\\P\\BinaryCalculator\\BinaryCalculator.iOS\\BinaryCalculator.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Andres\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Andres\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\Andres\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}

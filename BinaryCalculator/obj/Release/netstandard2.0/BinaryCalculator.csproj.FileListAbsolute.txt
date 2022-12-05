@@ -1,0 +1,15 @@
+D:\Andres\P\BinaryCalculator\BinaryCalculator\bin\Release\netstandard2.0\BinaryCalculator.deps.json
+D:\Andres\P\BinaryCalculator\BinaryCalculator\bin\Release\netstandard2.0\BinaryCalculator.dll
+D:\Andres\P\BinaryCalculator\BinaryCalculator\bin\Release\netstandard2.0\BinaryCalculator.pdb
+D:\Andres\P\BinaryCalculator\BinaryCalculator\obj\Release\netstandard2.0\BinaryCalculator.csproj.AssemblyReference.cache
+D:\Andres\P\BinaryCalculator\BinaryCalculator\obj\Release\netstandard2.0\BinaryCalculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Andres\P\BinaryCalculator\BinaryCalculator\obj\Release\netstandard2.0\App.xaml.g.cs
+D:\Andres\P\BinaryCalculator\BinaryCalculator\obj\Release\netstandard2.0\MainPage.xaml.g.cs
+D:\Andres\P\BinaryCalculator\BinaryCalculator\obj\Release\netstandard2.0\BinaryCalculator.AssemblyInfoInputs.cache
+D:\Andres\P\BinaryCalculator\BinaryCalculator\obj\Release\netstandard2.0\BinaryCalculator.AssemblyInfo.cs
+D:\Andres\P\BinaryCalculator\BinaryCalculator\obj\Release\netstandard2.0\BinaryCalculator.csproj.CoreCompileInputs.cache
+D:\Andres\P\BinaryCalculator\BinaryCalculator\obj\Release\netstandard2.0\XamlC.stamp
+D:\Andres\P\BinaryCalculator\BinaryCalculator\obj\Release\netstandard2.0\BinaryCalculator.dll
+D:\Andres\P\BinaryCalculator\BinaryCalculator\obj\Release\netstandard2.0\refint\BinaryCalculator.dll
+D:\Andres\P\BinaryCalculator\BinaryCalculator\obj\Release\netstandard2.0\BinaryCalculator.pdb
+D:\Andres\P\BinaryCalculator\BinaryCalculator\obj\Release\netstandard2.0\ref\BinaryCalculator.dll
